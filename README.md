@@ -5,7 +5,7 @@ It accepts as arguments the name of the video file with its extension as the fir
 images as the second argument.  
   
 #### Example
-`java -jar movie-frames-splitter-1.0-SNAPSHOT-jar-with-dependencies.jar "bunny.webm" "/home/luisalves/Personal/Learn/Java/movie-frame-splitter/src/main/resources/movies"`
+`java -jar movie-frames-saver-1.0-SNAPSHOT-jar-with-dependencies.jar "bunny.webm" "/home/luisalves/Personal/Learn/Java/movie-frame-splitter/src/main/resources/movies"`
 
 #### Installation
 To use the program you need to compile it using maven command tool. It has a build plugin that packages all dependencies
